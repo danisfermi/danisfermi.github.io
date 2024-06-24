@@ -109,10 +109,10 @@ events:
     date: "July 2010 - May 2014"
     description: "Undergrad Student at NIT Calicut"
   - image: "/img/timeline/rajagiri.jpg"
-    date: "June 2010 - Mar 2010"
-    description: "Student at Rajagiri Public School"
+    date: "June 1996 - Mar 2010"
+    description: "Student at Rajagiri"
 # First image of the Timeline
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/baby.jpg"
 ###########
 # Contact #
 ###########
